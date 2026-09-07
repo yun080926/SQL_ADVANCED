@@ -54,21 +54,26 @@ https://www.youtube.com/watch?v=lBk5YhLZevs&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 <!-- 이번 챕터는 개념정리 없이 MySQL 설치 후 인증사진으로 대체합니다. -->
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/7cb10a12-3d55-4c72-b9c1-4974c9a35204" />
+
 
 
 ## 02-2. 데이터베이스 시작부터 끝까지 
 > **데이터베이스 만들기(68 ~ 71p)의 1~5과정 진행 후 과제 페이지에서 요구하는 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1277" height="887" alt="image" src="https://github.com/user-attachments/assets/d2d5b588-048d-4b95-b72e-becb8ed21ad9" />
+
 
 > **테이블 만들기(71 ~ 75p)의 1~7과정 진행 후 과제 페이지에서 요구하는 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="917" height="782" alt="image" src="https://github.com/user-attachments/assets/002a807f-07a3-4721-a116-2085e34aad01" />
+
 
 > **데이터 입력하기(75 ~ 79p)의 1~11과정 진행 후 과제 페이지에서 요구하는 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1237" height="807" alt="image" src="https://github.com/user-attachments/assets/ac4320b9-76c8-4671-ae02-53fc5b059204" />
+
 
 > **데이터 활용하기(80 ~ 83p)의 1~6과정 진행 후 과제 페이지에서 요구하는 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1470" height="960" alt="image" src="https://github.com/user-attachments/assets/4d55acb4-e465-4978-996e-3568b08ad6d0" />
+
 
 ---
 
