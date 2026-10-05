@@ -167,7 +167,11 @@ NOT NULL은 빈 값을 허용하지 않는 제약 조건일 뿐 인덱스 생성
 
 <!-- '인덱스 생성과 제거 실습(310p~)' 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 2장 이상 제출해 주세요. -->
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/0c492048-758e-4bd1-b7f6-735d38813faf" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/4263344c-bf4c-4020-84d8-3cb839ac4fcb" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/47dfb2fb-5d9a-4e23-9ae6-3975555dd5b0" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/9707bbe9-59c3-4707-8981-11c6e637973a" />
+
 
 
 ---
@@ -222,6 +226,9 @@ INSERT INTO employees VALUES
 
 인덱스 생성 결과, EXPLAIN 실행 결과, 인덱스 삭제 결과가 모두 보이도록 캡처하여 제출하세요.
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/e60acda7-8105-4263-b98d-f94ee4ef6711" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/b1a4e3a0-2646-4e03-bbf6-8f8d633912bf" />
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/3863abf0-8314-4ab7-b7cc-a6f7e403b380" />
+
 
 ### 🎉 수고하셨습니다.
